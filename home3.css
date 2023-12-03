@@ -185,6 +185,7 @@ padding: 12px;
   align-items: center;
   justify-content: center;
   z-index: 1;
+  margin-left: -50px;
 }
 
 .navigation .action-btn {
