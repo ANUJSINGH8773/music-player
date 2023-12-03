@@ -8,7 +8,7 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .header{
-    background-image: url("C:/Users/91875/OneDrive/Documents/college project/pics/photo4.avif");
+    background-image: url("./pics/photo4.avif");
     background-size: cover;
     background-repeat: no-repeat;
     position: cover;
